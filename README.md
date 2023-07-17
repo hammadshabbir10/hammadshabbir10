@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hammad Shabbir</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 <image align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" /> </p>
