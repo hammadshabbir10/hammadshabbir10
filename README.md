@@ -1,7 +1,8 @@
-
+![logo](https://github.com/hammadshabbir10/hammadshabbir10/blob/main/Github.jpg)
 <h1 align="center">Hi 👋, I'm Hammad Shabbir</h1>
 <h3 align="center">Software Engineer</h3>
 
+<image align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" /> </p>
 
 - 🔭 I’m currently working on **Game Development on SFML**
