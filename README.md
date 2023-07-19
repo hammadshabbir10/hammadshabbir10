@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hammadshabbir507@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/hammadshabbir10](www.linkedin.com/in/hammadshabbir10)
+- 📄 Know about my experiences [www.linkedin.com/in/hammadshabbir10/](www.linkedin.com/in/hammadshabbir10/)
 
 - ⚡ Fun fact **I think I am Hard Working**
 
