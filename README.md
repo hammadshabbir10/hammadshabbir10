@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Game Development on SFML**
 
-- 🌱 I’m currently learning **C++, Html & CSS, Python**
+- 🌱 I’m currently learning **C++, Html & CSS, Python, JavaScript, .NET Framework**
 
 - 👨‍💻 All of my projects are available at [https://hammadshabbir10.github.io/](https://hammadshabbir10.github.io/)
 
