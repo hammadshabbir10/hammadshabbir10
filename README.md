@@ -42,10 +42,6 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 <br />
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadshabbir10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadshabbir10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 <br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
