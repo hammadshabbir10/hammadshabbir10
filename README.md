@@ -45,26 +45,17 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 
 <br />
 
-### 📊 GitHub Stats
-<br />
+### 📊 GitHub Stats & Details
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadshabbir10&theme=tokyonight" alt="Profile Details" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br />
 
-### 📈 Profile Details & Activity
+### 📈 Contribution Activity
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-profile-details.vercel.app/api?username=hammadshabbir10&theme=tokyonight&title_color=9c27b0&icon_color=9c27b0&hide_border=true" alt="Profile Details" height="195" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br />
