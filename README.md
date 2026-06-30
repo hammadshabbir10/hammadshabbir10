@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20👋,%20I'm%20Hammad%20Shabbir&fontSize=40&fontAlignY=35" alt="Header Animation" />
-</div>
+<h1 align="center">Hi 👋, I'm Hammad Shabbir</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
 </h3>
