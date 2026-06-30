@@ -45,10 +45,10 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 
 <br />
 
-### 📊 GitHub Stats & Details
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadshabbir10&theme=tokyonight" alt="Profile Details" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadshabbir10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
