@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9c27b0,673ab7,3f51b5&height=200&section=header&text=Hi%20👋,%20I'm%20Hammad%20Shabbir&fontSize=40&fontAlignY=35" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20👋,%20I'm%20Hammad%20Shabbir&fontSize=40&fontAlignY=35" alt="Header Animation" />
 </div>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
 </h3>
 
-<img align="right" alt="banner" width="400" src="https://github.com/user-attachments/assets/d77f20c7-cebc-405a-85cc-3f8a6be28c8d">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" /> 
 </p>
