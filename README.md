@@ -62,5 +62,5 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9c27b0,673ab7,3f51b5&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&desc=Let's%20build%20something%20amazing%20together&descSize=20&descAlignY=70" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&desc=Let's%20build%20something%20amazing%20together&descSize=20&descAlignY=70" alt="Footer Animation" />
 </div>
