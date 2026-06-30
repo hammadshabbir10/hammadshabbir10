@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" /> 
 </p>
 
+## 👨‍💻 About Me!
+
 A dedicated **Full Stack & AI Engineer** with a strong foundation in building real-time, responsive, and scalable web applications. I thrive on solving complex technical challenges at the intersection of modern web architectures and applied AI.
 
 - 🔭 **What I Do:** Build scalable MERN stack web applications handling thousands of users, design intelligent multi-agent systems using LLMs, and engineer high-performance backend pipelines.
@@ -15,7 +17,7 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 - 💬 **Ask me about my technical skills:** JavaScript, React, Node.js, Express.js, AI, and MERN stack architectures.
 - 📫 **How to reach me:** [hammadshabbir507@gmail.com](mailto:hammadshabbir507@gmail.com)
 - 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/hammadshabbir10/)
-- 👨‍💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
+- 👨💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
 - ⚡ **Why I Do It:** I'm passionate about leveraging full-stack and AI to solve real-world problems—from agricultural intelligence to automating video production!
 
 <br />
@@ -45,4 +47,29 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 <br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+### 📈 Contribution Graph
+<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=0D1117&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br />
+
+### 🐍 GitHub Contributions Snake Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9c27b0,673ab7,3f51b5&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&desc=Let's%20build%20something%20amazing%20together&descSize=20&descAlignY=70" alt="Footer Animation" />
 </div>
