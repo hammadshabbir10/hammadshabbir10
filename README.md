@@ -53,12 +53,8 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 
 ### 📈 Contribution Activity
 <div align="center">
-  <!-- Dynamic Dark Mode Contribution Calendar (Live URL) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.pumbas.net/api/contributions/hammadshabbir10?bgColour=161B22">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.pumbas.net/api/contributions/hammadshabbir10">
-    <img alt="Hammad's Github Contribution Graph" src="https://github.pumbas.net/api/contributions/hammadshabbir10?bgColour=161B22">
-  </picture>
+  <!-- This line will load the static screenshot image you upload to your repo -->
+  <img src="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/main/contribution-graph.png" alt="Hammad's Github Contribution Graph" />
   <br /><br />
   <!-- Purple Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
