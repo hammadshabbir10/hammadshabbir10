@@ -53,8 +53,10 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 
 ### 📈 Contribution Activity
 <div align="center">
-  <img src="https://ghchart.rshah.org/hammadshabbir10" alt="Hammad's Github Contribution Graph" />
+  <!-- Dynamic Dark Mode Contribution Calendar (Green on Black) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadshabbir10&theme=github_dark" alt="Hammad's Github Contribution Graph" />
   <br /><br />
+  <!-- Purple Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
