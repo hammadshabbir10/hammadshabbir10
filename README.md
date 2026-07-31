@@ -17,7 +17,7 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 - 💬 **Ask me about my technical skills:** JavaScript, React, Node.js, Express.js, AI, and MERN stack architectures.
 - 📫 **How to reach me:** [hammadshabbir507@gmail.com](mailto:hammadshabbir507@gmail.com)
 - 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/hammadshabbir10/)
-- 👨💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
+- 👨‍💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
 - ⚡ **Why I Do It:** I'm passionate about leveraging full-stack and AI to solve real-world problems—from agricultural intelligence to automating video production!
 
 <br />
@@ -53,6 +53,8 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 
 ### 📈 Contribution Activity
 <div align="center">
+  <img src="https://ghchart.rshah.org/hammadshabbir10" alt="Hammad's Github Contribution Graph" />
+  <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
