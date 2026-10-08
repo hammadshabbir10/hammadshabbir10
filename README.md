@@ -15,7 +15,7 @@ A **Full Stack Software Engineer** who designs, builds and ships production web 
 - 🔭 **What I Do:** Build scalable full-stack web applications, design intelligent multi-agent systems with LLMs, and engineer high-performance backend pipelines.
 - ☁️ **How I Ship:** Deploy and operate apps on **Cloudflare** (Workers & Pages), **Vercel**, **Render** and **AWS**, with CI/CD, performance budgets and SEO built in.
 - 🌱 **Currently exploring:** Advanced LLM orchestration, multi-agent pipelines, edge computing and high-performance search.
-- 💬 **Ask me about:** JavaScript/TypeScript, React, Next.js, Node.js, Python, APIs, databases, cloud deployment and AI integration.
+- 💬 **Ask me about:** JavaScript/TypeScript, React, Next.js, Node.js, Python, REST APIs, databases, cloud & DevOps, and LLM/RAG integration.
 - 📫 **How to reach me:** [hammadshabbir507@gmail.com](mailto:hammadshabbir507@gmail.com)
 - 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/hammadshabbir10/)
 - 👨‍💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
@@ -30,33 +30,88 @@ A **Full Stack Software Engineer** who designs, builds and ships production web 
   <a href="mailto:hammadshabbir507@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,html,css,tailwind&theme=dark" alt="Frontend" />
-</p>
-
-**Backend & AI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java,cs&theme=dark" alt="Backend and AI" />
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases" />
-</p>
-
-**Cloud, Deployment & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,aws,docker,git,github,githubactions&theme=dark" alt="Cloud and DevOps" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
+<table>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="python, js, ts, java, c, cpp" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="react, nextjs, html, css, tailwind" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/Zustand%20%F0%9F%90%BB-443E38?style=flat-square" alt="Zustand 🐻" />
+      <img src="https://img.shields.io/badge/Responsive%20Design-0E75B6?style=flat-square" alt="Responsive Design" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs, express" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+      <img src="https://img.shields.io/badge/RESTful%20API%20Design-0E75B6?style=flat-square" alt="RESTful API Design" />
+      <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT / OAuth" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases & Search</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" alt="mongodb, mysql, postgres, supabase" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes,githubactions&theme=dark" alt="aws, cloudflare, docker, kubernetes, githubactions" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 Deployments</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI & Prompt Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LLM%20Integration-7C3AED?style=flat-square" alt="LLM Integration" />
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square" alt="RAG Pipelines" />
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=flat-square" alt="Multi-Agent Systems" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧪 Testing & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" alt="jest, postman" height="40" />
+      <br />
+      <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤝 Soft Skills</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Team%20Leadership-0F766E?style=flat-square" alt="Team Leadership" />
+      <img src="https://img.shields.io/badge/Problem--Solving-0F766E?style=flat-square" alt="Problem-Solving" />
+      <img src="https://img.shields.io/badge/Collaboration-0F766E?style=flat-square" alt="Collaboration" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Key Highlights
 * **Fasal Guard:** Full-stack agricultural intelligence platform using satellite imagery to predict crop yield risks.
