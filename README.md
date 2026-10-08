@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hammad Shabbir</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;Shipping+on+Cloudflare%2C+Vercel%2C+Render+%26+AWS;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hammadshabbir10&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshabbir10" />
 </p>
 
 <h3>👨‍💻 About Me!</h3>
 
-A dedicated **Full Stack & AI Engineer** with a strong foundation in building real-time, responsive, and scalable web applications. I thrive on solving complex technical challenges at the intersection of modern web architectures and applied AI.
+A **Full Stack Software Engineer** who designs, builds and ships production web applications end to end — from responsive frontends and APIs to databases, cloud deployments and applied AI. I care about software that is fast, reliable and easy to maintain.
 
-- 🔭 **What I Do:** Build scalable MERN stack web applications handling thousands of users, design intelligent multi-agent systems using LLMs, and engineer high-performance backend pipelines.
-- 🌱 **Currently exploring:** Advanced LLM orchestration, Multi-Agent pipelines, and high-performance search queries.
-- 💬 **Ask me about my technical skills:** JavaScript, React, Node.js, Express.js, AI, and MERN stack architectures.
+- 🔭 **What I Do:** Build scalable full-stack web applications, design intelligent multi-agent systems with LLMs, and engineer high-performance backend pipelines.
+- ☁️ **How I Ship:** Deploy and operate apps on **Cloudflare** (Workers & Pages), **Vercel**, **Render** and **AWS**, with CI/CD, performance budgets and SEO built in.
+- 🌱 **Currently exploring:** Advanced LLM orchestration, multi-agent pipelines, edge computing and high-performance search.
+- 💬 **Ask me about:** JavaScript/TypeScript, React, Next.js, Node.js, Python, APIs, databases, cloud deployment and AI integration.
 - 📫 **How to reach me:** [hammadshabbir507@gmail.com](mailto:hammadshabbir507@gmail.com)
 - 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/hammadshabbir10/)
 - 👨‍💻 **Check out my projects:** [GitHub](https://github.com/hammadshabbir10)
-- ⚡ **Why I Do It:** I'm passionate about leveraging full-stack and AI to solve real-world problems—from agricultural intelligence to automating video production!
+- ⚡ **Why I Do It:** I enjoy turning real-world problems into reliable products — from agricultural intelligence to automated video production.
 
 <br />
 
@@ -29,17 +30,39 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
   <a href="mailto:hammadshabbir507@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp,java,cs&theme=dark" alt="Skills Icons" />
-  </a>
+<h3 align="left">🛠️ Tech Stack</h3>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,html,css,tailwind&theme=dark" alt="Frontend" />
+</p>
+
+**Backend & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java,cs&theme=dark" alt="Backend and AI" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases" />
+</p>
+
+**Cloud, Deployment & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,aws,docker,git,github,githubactions&theme=dark" alt="Cloud and DevOps" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 ### 🏆 Key Highlights
-* **Fasal Guard:** MERN-based agricultural intelligence platform using satellite imagery to predict crop yield risks.
-* **Agentic Montage Studio:** Multi-agent AI pipeline automating video production time from hours to under minutes.
+* **Fasal Guard:** Full-stack agricultural intelligence platform using satellite imagery to predict crop yield risks.
+* **Agentic Montage Studio:** Multi-agent AI pipeline that cut video production time from hours to minutes.
 * **Engineered OpenSearch Pipelines:** Reduced forensic investigation time by 60% with a React dashboard.
+* **Production Deployments:** Full-stack and static-first sites shipped on Cloudflare, Vercel, Render and AWS with optimized Core Web Vitals.
 
 <br />
 
