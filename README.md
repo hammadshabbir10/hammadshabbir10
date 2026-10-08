@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Shabbir</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+Scalable+Web+Apps;MERN+Stack+Developer;AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
@@ -46,18 +46,19 @@ A dedicated **Full Stack & AI Engineer** with a strong foundation in building re
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadshabbir10&theme=tokyonight" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hammadshabbir10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br />
 
 ### 📈 Contribution Activity
 <div align="center">
-  <!-- This line will load the static screenshot image you upload to your repo -->
-  <img src="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/main/contribution-graph.png" alt="Hammad's Github Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadshabbir10&theme=tokyonight" alt="Contribution Graph" />
   <br /><br />
-  <!-- Purple Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadshabbir10&bg_color=1a1b27&color=9c27b0&line=9c27b0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/hammadshabbir10/hammadshabbir10/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </div>
 
 <br />
